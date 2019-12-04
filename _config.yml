@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: hehinfosec - Infosec Blog
-email: housam.hajoui@gmail.com
-description: Yet Another Infosec Blog.
+title: H1L021 - Infosec Blog
+email: hilo21@protonmail.com
+description: Blue is Sexy.
 baseurl: ""
 keywords: ["blog", "jekyll"]
 
@@ -36,13 +36,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: th3s1nn3r
+  name: KALLARK
   avatar: garou.png
-  job: "Security Researcher"
+  job: "Chubby Security Defender"
   bio: "A guy with transverse infosec skills, decided to land on Exploit development soil."
   email: housam.hajoui@gmail.com
   disqus-shortname:
-  twitter: th3_3hh
+  twitter: H1L021
   facebook: #username
   google:
     plus: #username
@@ -51,10 +51,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: hehinfosec
+  github: H1L021
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: houssam-el-hajoui-b81a50b7
+  linkedin: hamzaouadia
   skype: #username
   xing: #username
   instagram: #username
